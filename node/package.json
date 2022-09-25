@@ -1,0 +1,15 @@
+{
+  "name": "kafka-ts-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ericxyan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.20",
+    "kafkajs": "^2.2.0",
+    "tls": "^0.0.1"
+  }
+}
